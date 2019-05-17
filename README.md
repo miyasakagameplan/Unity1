@@ -1,5 +1,6 @@
 # DGObstra
 This game was made with Unity.I made this game in a technical school class.
+
 このゲームはUnityで制作しました。このゲームは専門学校在学時に制作したものです。
 
 専門学校在学時、最後の授業に「アプリ制作」という授業があり、ゲーム企画科（当時在籍していた科）ではアプリを実際に制作することはできなかったので
